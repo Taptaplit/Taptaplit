@@ -19,7 +19,7 @@
 > Servers & Databases(MongoDB, MySQL)
 ```
 
-## Project
+## Main Repos
 ```
 > security-application (Security Camera, Motion Sensor)
 > youtubeGoogle
