@@ -1,6 +1,6 @@
 
 ### >>> print(Coding == Taptaplit)
-### True
+#### *Console*: True
 
 
 #My main coding language(s):
