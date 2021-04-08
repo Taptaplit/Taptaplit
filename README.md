@@ -25,10 +25,9 @@
 > youtubeGoogle
 > linear-regression
 > Timathon
-
+```
 ## Contact Me
 ```
 > Discord: Taptaplit#3992 (Recommended) 
-> 
 > Email: taptaplit10@gmail.com (I check every monthish, so I recommend discord)
 ```
