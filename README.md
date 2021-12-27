@@ -8,7 +8,8 @@
 ```
 > Python
 > Javascript
-> C#
+< Crystal
+> C++
 ```
 
 ## Skills
@@ -21,15 +22,15 @@
 
 ## Main Repos
 ```
-> security-application (Security Camera, Motion Sensor)
+> Proxy
 > youtubeGoogle
-> linear-regression
-> Timathon
+> Infoogle
+> personal-website-client
 ```
 ## Contact Me
 
 > Discord: Taptaplit#3992 (Recommended) 
 #### ____________________________________________________
 ####
-> Email: taptaplit10@gmail.com (I check every monthish, so I recommend discord)
+> Email: pateltaptaplit@gmail.com (I check every monthish, so I recommend discord)
 
