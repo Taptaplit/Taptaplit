@@ -8,7 +8,7 @@
 ```
 > Python
 > Javascript
-< Crystal
+> Crystal
 > C++
 ```
 
