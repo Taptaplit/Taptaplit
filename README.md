@@ -8,29 +8,19 @@
 ```
 > Python
 > Javascript
-> Crystal
-> C++
+> Python
+> Java
 ```
 
 ## Skills
 ```
-> Fullstack Web Development (Reactjs, Nextjs, Expressjs, Angular)
+> Fullstack Web Development (Reactjs, Nextjs, Expressjs, Svelte)
 > Minor Machine Learning
 > Discord Bots
 > Servers & Databases(MongoDB, MySQL)
+> GUI's
 ```
 
-## Main Repos
-```
-> Proxy
-> youtubeGoogle
-> Infoogle
-> personal-website-client
-```
 ## Contact Me
-
-> Discord: Taptaplit#3992 (Recommended) 
-#### ____________________________________________________
-####
-> Email: pateltaptaplit@gmail.com (I check every monthish, so I recommend discord)
+> Email: vismayp301@gmail.com
 
